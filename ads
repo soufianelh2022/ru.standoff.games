@@ -28,8 +28,7 @@
   "rewardMinutes": 10,
   "maintenance": {
     "enabled": false,
-    "blocking": false
-    "blocking": true,
+    "blocking": false,
     "title": "Техническое обслуживание",
     "message": "Мы улучшаем приложение. Пожалуйста, попробуйте немного позже."
   }
