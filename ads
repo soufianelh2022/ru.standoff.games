@@ -10,11 +10,11 @@
     "appopen": true
   },
   "placements": {
-    "banner": "REPLACE_WITH_YOUR_BANNER_AD_UNIT_ID",
-    "native": "REPLACE_WITH_YOUR_NATIVE_AD_UNIT_ID",
-    "interstitial": "REPLACE_WITH_YOUR_INTERSTITIAL_AD_UNIT_ID",
-    "rewarded": "REPLACE_WITH_YOUR_REWARDED_AD_UNIT_ID",
-    "appopen": "REPLACE_WITH_YOUR_APPOPEN_AD_UNIT_ID"
+    "banner": "R-M-20454309-a",
+    "native": "R-M-20454309-2",
+    "interstitial": "R-M-20454309-3",
+    "rewarded": "R-M-20454309-4",
+    "appopen": "R-M-20454309-5"
   },
   "frequency": {
     "interstitialSeconds": 30,
