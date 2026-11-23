@@ -10,7 +10,7 @@
     "appopen": true
   },
   "placements": {
-    "banner": "R-M-20454309-a",
+    "banner": "R-M-20454309-1",
     "native": "R-M-20454309-2",
     "interstitial": "R-M-20454309-3",
     "rewarded": "R-M-20454309-4",
